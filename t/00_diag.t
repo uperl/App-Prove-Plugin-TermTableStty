@@ -10,6 +10,8 @@ my %modules;
 my $post_diag;
 
 $modules{$_} = $_ for qw(
+  Cwd
+  Env
   ExtUtils::MakeMaker
   Test2::V0
 );

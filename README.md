@@ -1,4 +1,4 @@
-# App::Prove::Plugin::TermTableStty [![Build Status](https://secure.travis-ci.org/plicease/App-Prove-Plugin-TermTableStty.png)](http://travis-ci.org/plicease/App-Prove-Plugin-TermTableStty)
+# App::Prove::Plugin::TermTableStty [![Build Status](https://secure.travis-ci.org/plicease/work.png)](http://travis-ci.org/plicease/work)
 
 Set the size of the console for Term::Table using stty size
 
