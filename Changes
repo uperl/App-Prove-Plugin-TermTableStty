@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  - Add configure time check for stty command.
 
 0.01      2018-12-06 20:37:27 -0500
   - initial version
