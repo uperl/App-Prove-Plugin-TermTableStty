@@ -1,4 +1,4 @@
-# App::Prove::Plugin::TermTableStty [![Build Status](https://secure.travis-ci.org/plicease/App-Prove-Plugin-TermTableStty.png)](http://travis-ci.org/plicease/App-Prove-Plugin-TermTableStty)
+# App::Prove::Plugin::TermTableStty ![linux](https://github.com/uperl/App-Prove-Plugin-TermTableStty/workflows/linux/badge.svg) ![macos](https://github.com/uperl/App-Prove-Plugin-TermTableStty/workflows/macos/badge.svg)
 
 Set the size of the console for Term::Table using stty size
 
@@ -6,11 +6,15 @@ Set the size of the console for Term::Table using stty size
 
 From command-line:
 
-    prove -PTermTable
+```
+prove -PTermTable
+```
 
 From .proverc:
 
-    -PTermTable
+```
+-PTermTable
+```
 
 # DESCRIPTION
 
