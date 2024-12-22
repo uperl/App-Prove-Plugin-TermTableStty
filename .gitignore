@@ -1,2 +1,4 @@
 /App-Prove-Plugin-TermTableStty-*
 /.build
+*.old
+*.orig
